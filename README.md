@@ -5,4 +5,4 @@
 - 직원목록 csv파일, excel파일 다운로드
 3. 수정
 4. 삭제 
-
+Spring framework, mybatis, Oracle
